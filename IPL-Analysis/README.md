@@ -25,5 +25,5 @@ This dashboard is designed to provide in-depth insights into IPL (Indian Premier
 - Venue Analysis:
   - Understand the impact of venues on match outcomes by exploring matches won at each location.
 
-Player Stats:
-Toggle between "Batter" and "Bowler" tabs to select the player category. Enter a player's name to view detailed statistics.
+- Player Stats:
+  - Toggle between "Batter" and "Bowler" tabs to select the player category. Enter a player's name to view detailed statistics.
